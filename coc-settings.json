@@ -1,0 +1,8 @@
+{
+	"coc.preferences.formatOnSaveFiletypes": ["javascript","typescript","typescriptreact","json","javascriptreact","css","Markdown","less","sass","scss","html"],
+	"eslint.autoFixOnSave": true,
+	"prettier.semi": true,
+	"prettier.tabWidth": 2,
+	"prettier.trailingComma": "es5",
+	"prettier.singleQuote": true
+}
