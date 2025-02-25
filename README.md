@@ -17,12 +17,6 @@
               alt="GitHub Stats"
             />
           </td>
-          <td>
-            <img
-              src="https://streak-stats.demolab.com/?user=StaZarycki&theme=tokyonight"
-              alt="GitHub Stats"
-            />
-          </td>
         </tr>
       </thead>
     </table>
